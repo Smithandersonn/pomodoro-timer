@@ -53,6 +53,7 @@ Projeto desenvolvido para estudo de JavaScript, HTML e CSS.
 
 ---
 
-**by [Anderson Almeida](https://github.com/Smithandersonn)!** 🚀
+**by [Anderson Almeida](https://github.com/Smithandersonn) !** 🚀
 
 Desenvolvido para fins educacionais.
+
